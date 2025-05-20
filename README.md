@@ -1,5 +1,5 @@
 # PicaVoxel
-Open source release of the retired Unity asset [PicaVoxel](http://picavoxel.com).
+Open source release of the retired Unity asset [PicaVoxel](https://gareth.pw/web/picavoxel/).
 
 This is a slightly modified version of the final asset store release, and has been tested working on Unity 2019.4 LTS.
 
